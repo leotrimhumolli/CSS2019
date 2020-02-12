@@ -15,7 +15,7 @@ All demos in the project may be run directly in your browser without installing 
 ```bash
 jupyter notebook
 ```
-After this Jupyter Notebook will be accessible by ```bash http://localhost:8888. ``` and run the files [crawlerNominatedForDeletion.ipynb], [crawlerPersons.ipynb] and finally [plots.ipynb] to see the data analysis made for this research. 
+After this Jupyter Notebook will be accessible by ``` http://localhost:8888. ``` and run the files [crawlerNominatedForDeletion.ipynb], [crawlerPersons.ipynb] and finally [plots.ipynb] to see the data analysis made for this research. 
 
 
 ## Project description
